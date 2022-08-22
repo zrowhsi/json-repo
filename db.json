@@ -1,0 +1,371 @@
+{
+	"recommendationList": [
+		{
+			"productId": 12,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "12_1660983345416.jpg"
+		},
+		{
+			"productId": 3,
+			"title": "Duke 250",
+			"price": 0.0,
+			"categoryId": 5,
+			"docPath": "https://www.drivespark.com/bikes-photos/models/320x320/390-duke_1515499621.jpg/2/x.pagespeed.ic.pMHVdP0W1M.jpg"
+		},
+		{
+			"productId": 15,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "15_1661020459982.jpg"
+		},
+		{
+			"productId": 16,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "16_1661020499345.jpg"
+		},
+		{
+			"productId": 17,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "17_1661020954047.jpg%22}"
+		},
+		{
+			"productId": 18,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "18_1661021046325.jpg%22}"
+		},
+		{
+			"productId": 19,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "19_1661021428726.jpg%22}"
+		},
+		{
+			"productId": 4,
+			"title": "Yamaha R15",
+			"price": 0.0,
+			"categoryId": 5,
+			"docPath": "https://gaadiwaadi.com/wp-content/uploads/2021/01/2021-Yamaha-R15-V3-1068x837.jpg"
+		},
+		{
+			"productId": 7,
+			"title": "Crf",
+			"price": 0.0,
+			"categoryId": 5,
+			"docPath": "https://cf.shopee.ph/file/62113fc443a9ad78c9558b2126355692"
+		},
+		{
+			"productId": 20,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "20_1661021583684.jpg%22}"
+		},
+		{
+			"productId": 13,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "13_1660983384725.jpg"
+		},
+		{
+			"productId": 6,
+			"title": "Litchi",
+			"price": 0.0,
+			"categoryId": 9,
+			"docPath": "https://www.oxotea.com/wp-content/uploads/2021/07/litchi-freshproduceshoppe-1024x1024-1.jpg"
+		},
+		{
+			"productId": 5,
+			"title": "Maize",
+			"price": 0.0,
+			"categoryId": 9,
+			"docPath": "https://www.collinsdictionary.com/images/full/maize_294150416.jpg"
+		},
+		{
+			"productId": 1,
+			"title": "Lenovo thinkpad",
+			"price": 0.0,
+			"categoryId": 4,
+			"docPath": "https://media.ldlc.com/r1600/ld/products/00/05/60/75/LD0005607584_2_0005771418_0005785981.jpg"
+		},
+		{
+			"productId": 2,
+			"title": "Dell precision",
+			"price": 0.0,
+			"categoryId": 4,
+			"docPath": "https://www.bhphotovideo.com/images/images1000x1000/dell_vyd3d_precision_7560_core_i7_1657098.jpg"
+		},
+		{
+			"productId": 22,
+			"title": "Sahana ",
+			"price": 1200.0,
+			"categoryId": 1,
+			"docPath": null
+		},
+		{
+			"productId": 23,
+			"title": "Sahana ",
+			"price": 1200.0,
+			"categoryId": 1,
+			"docPath": null
+		},
+		{
+			"productId": 24,
+			"title": "Fender Strat",
+			"price": 1500.0,
+			"categoryId": 10,
+			"docPath": "0_1661114432433.jpeg"
+		}
+	],
+	"bestSellingList": [
+		{
+			"productId": 7,
+			"title": "Crf",
+			"price": 0.0,
+			"categoryId": 5,
+			"docPath": "https://cf.shopee.ph/file/62113fc443a9ad78c9558b2126355692"
+		},
+		{
+			"productId": 4,
+			"title": "Yamaha R15",
+			"price": 0.0,
+			"categoryId": 5,
+			"docPath": "https://gaadiwaadi.com/wp-content/uploads/2021/01/2021-Yamaha-R15-V3-1068x837.jpg"
+		},
+		{
+			"productId": 3,
+			"title": "Duke 250",
+			"price": 0.0,
+			"categoryId": 5,
+			"docPath": "https://www.drivespark.com/bikes-photos/models/320x320/390-duke_1515499621.jpg/2/x.pagespeed.ic.pMHVdP0W1M.jpg"
+		},
+		{
+			"productId": 1,
+			"title": "Lenovo thinkpad",
+			"price": 0.0,
+			"categoryId": 4,
+			"docPath": "https://media.ldlc.com/r1600/ld/products/00/05/60/75/LD0005607584_2_0005771418_0005785981.jpg"
+		},
+		{
+			"productId": 2,
+			"title": "Dell precision",
+			"price": 0.0,
+			"categoryId": 4,
+			"docPath": "https://www.bhphotovideo.com/images/images1000x1000/dell_vyd3d_precision_7560_core_i7_1657098.jpg"
+		},
+		{
+			"productId": 6,
+			"title": "Litchi",
+			"price": 0.0,
+			"categoryId": 9,
+			"docPath": "https://www.oxotea.com/wp-content/uploads/2021/07/litchi-freshproduceshoppe-1024x1024-1.jpg"
+		},
+		{
+			"productId": 5,
+			"title": "Maize",
+			"price": 0.0,
+			"categoryId": 9,
+			"docPath": "https://www.collinsdictionary.com/images/full/maize_294150416.jpg"
+		},
+		{
+			"productId": 12,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "12_1660983345416.jpg"
+		},
+		{
+			"productId": 13,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "13_1660983384725.jpg"
+		},
+		{
+			"productId": 24,
+			"title": "Fender Strat",
+			"price": 1500.0,
+			"categoryId": 10,
+			"docPath": "0_1661114432433.jpeg"
+		},
+		{
+			"productId": 23,
+			"title": "Sahana ",
+			"price": 1200.0,
+			"categoryId": 1,
+			"docPath": null
+		},
+		{
+			"productId": 18,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "18_1661021046325.jpg%22}"
+		},
+		{
+			"productId": 17,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "17_1661020954047.jpg%22}"
+		},
+		{
+			"productId": 16,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "16_1661020499345.jpg"
+		},
+		{
+			"productId": 15,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "15_1661020459982.jpg"
+		},
+		{
+			"productId": 22,
+			"title": "Sahana ",
+			"price": 1200.0,
+			"categoryId": 1,
+			"docPath": null
+		},
+		{
+			"productId": 19,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "19_1661021428726.jpg%22}"
+		},
+		{
+			"productId": 20,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "20_1661021583684.jpg%22}"
+		}
+	],
+	"newProductList": [
+		{
+			"productId": 7,
+			"title": "Crf",
+			"price": 0.0,
+			"categoryId": 5,
+			"docPath": "https://cf.shopee.ph/file/62113fc443a9ad78c9558b2126355692"
+		},
+		{
+			"productId": 20,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "20_1661021583684.jpg%22}"
+		},
+		{
+			"productId": 18,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "18_1661021046325.jpg%22}"
+		},
+		{
+			"productId": 2,
+			"title": "Dell precision",
+			"price": 0.0,
+			"categoryId": 4,
+			"docPath": "https://www.bhphotovideo.com/images/images1000x1000/dell_vyd3d_precision_7560_core_i7_1657098.jpg"
+		},
+		{
+			"productId": 16,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "16_1661020499345.jpg"
+		},
+		{
+			"productId": 17,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "17_1661020954047.jpg%22}"
+		},
+		{
+			"productId": 15,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "15_1661020459982.jpg"
+		},
+		{
+			"productId": 12,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "12_1660983345416.jpg"
+		},
+		{
+			"productId": 23,
+			"title": "Sahana ",
+			"price": 1200.0,
+			"categoryId": 1,
+			"docPath": null
+		},
+		{
+			"productId": 19,
+			"title": "Honda damak",
+			"price": 500000.0,
+			"categoryId": 5,
+			"docPath": "19_1661021428726.jpg%22}"
+		}
+	],
+	"bannerList": [
+		{
+			"bannerId": 4,
+			"docPath": "https://reviews.com.np/uploads/article/all-the-offers-for-two-wheelers-this-dashain-tihar/all-the-offers-for-two-wheelers-this-dashain-tihar.jpg"
+		},
+		{
+			"bannerId": 3,
+			"docPath": "https://www.gadgetbytenepal.com/wp-content/uploads/2017/08/Xiaomi-Dashain-offer.jpg"
+		},
+		{
+			"bannerId": 2,
+			"docPath": "https://www.nepalitimes.com/wp-content/uploads/2020/09/TATA-Dasain-offer-Biz-Briefs.jpg"
+		},
+		{
+			"bannerId": 1,
+			"docPath": "https://www.nepalitelecom.com/wp-content/uploads/2020/10/Durbarmart-Dashain-Mela-offer.jpg"
+		}
+	],
+	"categoryList": [
+		{
+			"categoryId": 1,
+			"category": "Automobile",
+			"level": "1",
+			"parentId": 0,
+			"docPath": "https://st2.depositphotos.com/3591429/9131/i/950/depositphotos_91315090-stock-photo-design-elegance-automobile.jpg"
+		},
+		{
+			"categoryId": 2,
+			"category": "Electronics",
+			"level": "2",
+			"parentId": 0,
+			"docPath": "https://cdn.shopify.com/s/files/1/0672/9409/products/soil-temperature-moisture-sensor-rs485_large.jpg?v=1660325931"
+		},
+		{
+			"categoryId": 3,
+			"category": "Agro",
+			"level": "3",
+			"parentId": 0,
+			"docPath": "https://static.frame.work/d95hpc096mt5u4tirhfzzr5adg71"
+		}
+	]
+}
